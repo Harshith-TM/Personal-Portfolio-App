@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="Portfolio">Portfolio</string>
+
+    <string name="profile_photo">profile_photo</string>
+    <string name="welcome">Welcome</string>
+    <string name="name">NAME</string>
+    <string name="mode">mode</string>
+    <string name="about"> Enthusiastic and technically proficient recent graduate with a good foundation in
+ computer science and a passion for Android app development. Possess good problem
+ solving skills and a keen interest in creating user-friendly mobile applications. Eager to
+ apply my technical expertise and innovative thinking to contribute effectively to a project
+ and the development team. </string>
+    <string name="desc">Android Developer</string>
+    <string name="contact">Contact:</string>
+    <string name="socials">socials</string>
+
+    <!--Education Details-->
+    <string name="education">Education</string>
+    <string name="mca">College</string>
+    <string name="bca">College</string>
+
+    <!--Skills Details-->
+    <string name="skill">Skills</string>
+    <string name="skill1">>Programming Languages: C, C++, Java</string>
+    <string name="skill2">>Database Management and Tools: Sql, Firebase, MongoDb</string>
+    <string name="skill3">>Tools: Git, Figma</string>
+
+    <!--Project Details-->
+    <string name="projects">Projects</string>
+    <string name="project1">>Ticket Booking App: A Train ticket booking application for android. Built using XML, JAVA and FIREBASE.</string>
+    <string name="project2">> Password Manager: An android application to manage users password locally on their device. Built using XML, JAVA.</string>
+    <string name="project3">>Expense Tracker: An Expense Tracker web application built using AngularJS.</string>
+
+    <!--Certificate Details-->
+    <string name="certificate">Certificates</string>
+    <string name="certificate1">>Android App Development by SIMPLILEARN.</string>
+    <string name="certificate2">>Full Stack Java Development by SIMPLILEARN.</string>
+    <string name="certificate3">>Software Testing Beginner by SIMPLILEARN.</string>
+
+</resources>
