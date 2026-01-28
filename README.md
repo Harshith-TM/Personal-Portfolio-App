@@ -23,7 +23,5 @@ A simple personal portfolio Android application that showcases profile, educatio
 <img src="screenshots/profile.png" width="250" alt="Profile section"/>
 <img src="screenshots/skills&project.png" width="250" alt="Skills section"/>-->
 
-|![](screenshots/welcomeScreen.png) | 
-|![](screenshots/profile.png) | 
-|![](screenshots/skills&project.png) | 
-|![](screenshots/certificates&contact.png) | 
+![](screenshots/welcomeScreen.png) ![](screenshots/profile.png)
+![](screenshots/skills&project.png) ![](screenshots/certificates&contact.png) 
